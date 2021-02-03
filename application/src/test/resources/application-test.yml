@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password: secret
+server:
+  port: 8090
